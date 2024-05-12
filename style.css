@@ -1,9 +1,10 @@
 h2{
     font-size: 65px;
+    font-style: italic;
     color: yellowgreen;
 }
 p{
     color: greenyellow;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 18px;
 }
